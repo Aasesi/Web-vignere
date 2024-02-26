@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <form action="EncodeServlet" method="post">
+            <label for="key">Enter Key:</label>
+            <input type="text" id="key" name="key" required><br><br>
+
+            <label for="text">Enter Text to Encode:</label>
+            <input type="text" id="text" name="text" required><br><br>
+
+            <input type="submit" value="Encode">
+        </form>
+
+        <form action="DecodeServlet" method="post">
+            <label for="decodeKey">Enter Key:</label>
+            <input type="text" id="decodeKey" name="key" required><br><br>
+
+            <label for="decodeText">Enter Text to Decode:</label>
+            <input type="text" id="decodeText" name="text" required><br><br>
+
+            <input type="submit" value="Decode">
+        </form>
+        
+        <form action="History" method="post">
+            <input type="submit" value="History" />
+        </form>
+    </body>
+</html>

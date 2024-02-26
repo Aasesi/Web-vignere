@@ -1,0 +1,81 @@
+@options
+@packages
+-classpath
+'C:/Users/Miko³aj/.m2/repository/org/apache/derbyclient/derby-client/10.14.2.0/derby-client-10.14.2.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/Miko³aj/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/Miko³aj/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/Miko³aj/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Miko³aj/Downloads/WebVignere/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Miko³aj/Downloads/WebVignere/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WebVignere-1.0 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Miko³aj/Downloads/WebVignere/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'WebVignere-1.0 1.0 API'
+pl.polsl.wilczynskimikolaj.model
+pl.polsl.wilczynskimikolaj.servlets
+pl.polsl.wilczynskimikolaj.webvignere
+pl.polsl.wilczynskimikolaj.webvignere.resources
+C:\Users\Miko³aj\.m2\repository\org\apache\derbyclient\derby-client\10.14.2.0\derby-client-10.14.2.0.jar = 1523034616000
+C:\Users\Miko³aj\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1701892795797
+C:\Users\Miko³aj\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1701892801626
+C:\Users\Miko³aj\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1701892796662
+C:\Users\Miko³aj\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1701892796033
+C:\Users\Miko³aj\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1701892796730
+C:\Users\Miko³aj\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1701892796511
+C:\Users\Miko³aj\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1701892797815
+C:\Users\Miko³aj\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1701892796955
+C:\Users\Miko³aj\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1701892796767
+C:\Users\Miko³aj\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1701892797038
+C:\Users\Miko³aj\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1701892796961
+C:\Users\Miko³aj\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1701892797092
+C:\Users\Miko³aj\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1701892797071
+C:\Users\Miko³aj\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1701892797473
+C:\Users\Miko³aj\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1701892797228
+C:\Users\Miko³aj\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1701892797521
+C:\Users\Miko³aj\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1701892797568
+C:\Users\Miko³aj\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1701892797936
+C:\Users\Miko³aj\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1701892798073
+C:\Users\Miko³aj\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1701892797707
+C:\Users\Miko³aj\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1701892797798
+C:\Users\Miko³aj\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1701892797986
+C:\Users\Miko³aj\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1701892798432
+C:\Users\Miko³aj\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1701892799616
+C:\Users\Miko³aj\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1701892798231
+C:\Users\Miko³aj\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1701892798989
+C:\Users\Miko³aj\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1701892798415
+C:\Users\Miko³aj\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1701892798564
+C:\Users\Miko³aj\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1701892798789
+C:\Users\Miko³aj\Downloads\WebVignere\src\main\java = 1701905121748
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\allclasses-index.html = 1704547043870
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\allpackages-index.html = 1704547043874
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\element-list = 1704547043734
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\help-doc.html = 1704547043906
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\index-all.html = 1704547043897
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\index.html = 1704547043854
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\jquery-ui.overrides.css = 1704547043922
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\member-search-index.js = 1704547043879
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\module-search-index.js = 1704547043875
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\overview-summary.html = 1704547043900
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\overview-tree.html = 1704547043848
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\package-search-index.js = 1704547043877
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\script.js = 1704547043910
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\search.js = 1704547043912
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\serialized-form.html = 1704547043789
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\stylesheet.css = 1704547043908
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\tag-search-index.js = 1704547043880
+C:\Users\Miko³aj\Downloads\WebVignere\target\site\apidocs\type-search-index.js = 1704547043878

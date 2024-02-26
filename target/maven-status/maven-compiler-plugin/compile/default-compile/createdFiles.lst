@@ -1,0 +1,11 @@
+pl\polsl\wilczynskimikolaj\servlets\AppInitializer.class
+pl\polsl\wilczynskimikolaj\servlets\History.class
+pl\polsl\wilczynskimikolaj\model\Operation.class
+pl\polsl\wilczynskimikolaj\model\LetterCase.class
+pl\polsl\wilczynskimikolaj\model\Model.class
+pl\polsl\wilczynskimikolaj\servlets\DecodeServlet.class
+pl\polsl\wilczynskimikolaj\model\DatabaseHandler.class
+pl\polsl\wilczynskimikolaj\model\KeyGenerationException.class
+pl\polsl\wilczynskimikolaj\servlets\EncodeServlet.class
+pl\polsl\wilczynskimikolaj\webvignere\JakartaRestConfiguration.class
+pl\polsl\wilczynskimikolaj\webvignere\resources\JakartaEE10Resource.class
